@@ -1,4 +1,10 @@
 # 📈 Macroeconomic Forecasting & Banking Analytics
+Python
+Econometrics
+Forecasting
+ARIMA
+Time Series
+Banking Analytics
 
 Forecasting inflation and banking indicators using ARIMA, ARDL, and econometric modelling with RBI and MoSPI macroeconomic datasets.
 
